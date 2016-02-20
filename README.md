@@ -32,6 +32,29 @@
 
 
 
+## Barista Duties
+
+1. asas
+2. asas
+
+
+## Barista Duties
+
+1. asas
+2. asas
+
+## Barista Duties
+
+1. asas
+2. asas
+
+## Barista Duties
+
+1. asas
+2. asas
+
+
+
 ## <a name="Scholarships"></a>Barista Duties
 
 1. asas
