@@ -2,7 +2,7 @@
 
 <!-- Using anchor tags-->
 # Table of Contents
-1. [Application for Scholarships](#Scholarships)
+1. [Scholarships](#Scholarships)
 2. [Barista Duties](#BaristaDuties)
 3. [Barista Duties](#BaristaDuties2)
 4. [Barista Duties](#BaristaDuties3)
@@ -10,7 +10,7 @@
 
 
 
-## Application for Scholarships
+## Application for Scholarships 
 
 1. Read about foundations in <https://www.kth.se/en/student/studentliv/stipendier/kth-anknutna-stiftelser-1.11753>
 2. According to Ulrika ([ulribe@kth.se] or [stipendier@kth.se]), each school does a review of the applications from their school and decide who should be nominated, and the decision is made by the president of KTH stipendierad
@@ -30,7 +30,9 @@
 1. asas
 2. asas
 
-## Barista Duties
+
+
+## <a name="Scholarships"></a>Barista Duties
 
 1. asas
 2. asas
