@@ -39,6 +39,8 @@ Thanks
 
 5. Cleaning steamer head: *i)* remove steamer head and *ii)* put in glass with water and cleaning product
 
+![alt text](https://github.com/potaopereira/PhDUsefulInfo/Fiures/2016_02_23_SteamerHeadCleaning.jpg "Steamer Head Cleaning")
+
 ![Steamer Head Cleaning Photo][SteamerHeadCleaning]
 
 [SteamerHeadCleaning]: https://github.com/potaopereira/PhDUsefulInfo/Fiures/2016_02_23_SteamerHeadCleaning.jpg "Steamer Head Cleaning"
