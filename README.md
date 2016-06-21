@@ -9,7 +9,7 @@
 ## <a name="Scholarships"></a>Application for Scholarships [Back](#BackToTop) 
 
 1. Read about foundations in <https://www.kth.se/en/student/studentliv/stipendier/kth-anknutna-stiftelser-1.11753>
-2. According to Ulrika (ulribe@kth.se or stipendier@kth.se), each school does a review of the applications from their school and decide who should be nominated, and the decision is made by the president of KTH stipendierad
+2. According to Ulrika (ulribe@kth.se or stipendier@kth.se), each school does a review of the applications from their school and decides who should be nominated, and the decision is made by the president of KTH stipendierad
 
 ## <a name="BaristaDuties"></a>Barista Duties [Back](#BackToTop)
 
@@ -22,11 +22,9 @@
   1. contact (reference number: 110010) with edenspring (info@se.edensprings.com)
   2. they come every 2 weeks or every month to clean the machine and check that everything is ok
   3. when we call them they are not really responsive so we often had to drop more then one email or call them
-4. Example email
+4. Example email <a href="mailto:order@jnatwork.se,risuleo@kth.se,jezdimir@kth.se?subject=Coffee order: KTH Automatic Control&body= Hej,%0D%0A%0D%0A We are the  Automatic Control Department at KTH (Osquldas vag 10, floor 6, Stockholm).%0D%0A%0D%0A . 12 Kg of BELLA coffee beans, %0D%0A%0D%0A . 6 Kg of Fika coffee beans.%0D%0A%0D%0AThanks">Order Coffee</a>
 
 ```
-To:order@jnatwork.se
-
 Hej,
 
 We are the  Automatic Control Department at KTH (Osquldas väg 10, floor 6, Stockholm).
